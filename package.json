@@ -1,0 +1,14 @@
+{
+  "name": "vk-mercurial",
+  "version": "1.0.0",
+  "description": "start of something big",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meDivine",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.2.0"
+  }
+}
